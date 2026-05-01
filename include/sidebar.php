@@ -1,18 +1,4 @@
-<?php
-require '../config/function.php';
-if (session_status() == PHP_SESSION_NONE) {
-  session_start();
-}if (!isset($_SESSION['id'])) {
-  header('Location: login.php');
-  exit();
-}
 
-$username = $_SESSION['username'];
-$id = $_SESSION['id'];
-$sql = "SELECT * FROM profile WHERE username = '$username' ";
-$result = $conn->query($sql);
-$row = $result->fetch_assoc();
-?>
 
 <!DOCTYPE html>
 <html lang="en">

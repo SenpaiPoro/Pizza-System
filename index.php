@@ -1,5 +1,5 @@
 
-<?php include ('include/siderbar.php'); ?>
+<?php include ('include/sidebar.php'); ?>
 <?php include ('include/topbar.php'); ?>
 
 

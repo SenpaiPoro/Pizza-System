@@ -175,15 +175,9 @@
                         <li class="nav-item dropdown no-arrow">
                             <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button"
                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                <span class="mr-2 d-none d-lg-inline text-gray-600 small"><b><?php echo $row['name'];?></b></span>
+                                <span class="mr-2 d-none d-lg-inline text-gray-600 small"><b></b></span>
                                 <img class="img-profile rounded-circle"
-                                    src="<?php 
-                                    if($row['profile'] == null){
-                                        echo "img/undraw_profile.svg";
-                                    }else{
-                                        echo "../Portfolio/assets/".$row['profile'];
-                                    }
-                                    ?>">
+                                    src="img/undraw_profile.svg">
                             </a>
                             <!-- Dropdown - User Information -->
                             <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in"
