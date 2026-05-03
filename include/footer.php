@@ -14,7 +14,8 @@
             <footer class="sticky-footer bg-white">
                 <div class="container my-auto">
                     <div class="copyright text-center my-auto">
-                        <span>Copyright &copy; Your Website 2020</span>
+                        <span><p style="color: black"><h5>Please take note that the image used is copyrighted by
+                             <br><a href="https://www.dominospizza.ph/">Dominopizza.ph.</a></h5></p></span>
                     </div>
                 </div>
             </footer>

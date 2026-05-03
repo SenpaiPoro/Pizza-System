@@ -20,8 +20,9 @@
 
     <!-- Columns are always 50% wide, on mobile and desktop -->
     <div class="row">
-        <div class="col-6"><p style="color: black"><h5>Please take note that the image used is copyrighted by <br><a href="https://www.dominospizza.ph/">Dominopizza.ph.</a></h5></p></div>
         <div class="col-6"><img src="promo3.png" class="img-fluid rounded float-start" alt="..."></div>
+        <div class="col-6"><img src="promo3.png" class="img-fluid rounded float-start" alt="..."></div>
+
     </div>
     </div>
 
