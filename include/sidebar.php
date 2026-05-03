@@ -63,7 +63,7 @@
                     <div class="bg-white py-2 collapse-inner rounded">
                         <h6 class="collapse-header">Your Choice:</h6>
                         <a class="collapse-item active" href="index.php">Home</a>
-                        <a class="collapse-item" href="Home.php">Menu</a>
+                        <a class="collapse-item" href="menu.php">Menu</a>
                         <a class="collapse-item" href="contact.php">Contact</a>
                     </div>
                 </div>
